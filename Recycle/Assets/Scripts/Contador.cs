@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Contador_vaso : MonoBehaviour
+public class Contador : MonoBehaviour
 {
     private int contadorColisiones = 0;
     public string caracteresEspecificos = "Bottle"; // Caracteres específicos a buscar en el nombre.
