@@ -4,27 +4,25 @@ using UnityEngine;
 
 public class Plataforma : MonoBehaviour
 {
-    public Transform puntoInicial;
-    public Transform puntoFinal;
-    public float velocidad = 2.0f;
-
-    private Vector3 objetivo;
+    public float velocidadMovimiento = 5.0f; // Ajusta la velocidad según sea necesario.
+    private Rigidbody rb;
 
     private void Start()
     {
-        objetivo = puntoFinal.position;
+        rb = GetComponent<Rigidbody>();
     }
 
-    private void Update()
+    private void FixedUpdate()
     {
-        // Mueve la plataforma hacia el objetivo
-        transform.position = Vector3.MoveTowards(transform.position, objetivo, velocidad * Time.deltaTime);
+        // Obtén la entrada del usuario para el movimiento horizontal y vertical
+        float movimientoHorizontal = Input.GetAxis("Horizontal");
+        float movimientoVertical = Input.GetAxis("Vertical");
 
-        // Comprueba si la plataforma ha llegado al objetivo
-        if (transform.position == objetivo)
-        {
-            // Teletransporta la plataforma al punto inicial
-            objetivo = (objetivo == puntoFinal.position) ? puntoInicial.position : puntoFinal.position;
-        }
+        // Calcula la velocidad del objeto 1
+        Vector3 velocidad = new Vector3(0.0f, 0.0f, -1.0f) * velocidadMovimiento;
+
+        // Aplica la velocidad al objeto 1
+        rb.velocity = velocidad;
     }
+
 }
