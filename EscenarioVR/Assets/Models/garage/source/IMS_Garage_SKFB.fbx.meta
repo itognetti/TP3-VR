@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 4a18c871f8b7433419fbfa1eb024dadd
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IMS_MetalGasCan_VR_M_JackStand
+    second: {fileID: 2100000, guid: 34aa41c0afc00f541b6fcad871cbd120, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CardboardBox
+    second: {fileID: 2100000, guid: 132aa72ecb9e8064d99896aebff0ae7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Case
+    second: {fileID: 2100000, guid: dc8c3964d601f3c469fc2fd3ea379f68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Chair
+    second: {fileID: 2100000, guid: 35b6395c201ec394cb202dc17538d31f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CheckerBoard
+    second: {fileID: 2100000, guid: 3fa5a9d506c13bb48a4a2a5a0c643257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_DiamondGrease
+    second: {fileID: 2100000, guid: 0c73c03067294c94d8c640c0733a18d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_DoorPanel
+    second: {fileID: 2100000, guid: 84845b7196859eb458a6345d6b99fe6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ElBeeLube
+    second: {fileID: 2100000, guid: ce03d74af7afae44b8255790a36376bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ElRoiTan
+    second: {fileID: 2100000, guid: 0feac2c5f803b3240baa2107a6839678, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Floor
+    second: {fileID: 2100000, guid: 2db4c277560240143b6de32529348674, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Fridge
+    second: {fileID: 2100000, guid: 4dffc98a994b54e4bbd48c679981aaf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Goop
+    second: {fileID: 2100000, guid: 72473b3ac2f09e140a499471f6791311, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Humo
+    second: {fileID: 2100000, guid: f38083edeb6dd1946ba705bb753c3a8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LinseedOil
+    second: {fileID: 2100000, guid: b150dff32c156244c985be90c4aed12c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Locker
+    second: {fileID: 2100000, guid: aeccd1291de0cb24099b343b3d7e7d2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_LockerDoor
+    second: {fileID: 2100000, guid: e12749b52e592744a8ea249446c7a6ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_MobilOil
+    second: {fileID: 2100000, guid: 5715859b1672f1e448ad4c64d7c3a452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_PegBoard
+    second: {fileID: 2100000, guid: 46ca59e46dbf11648b957a51684311a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_PosterCowGirl
+    second: {fileID: 2100000, guid: 6ad7ecdff66a95645b5c212a55a56796, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_PosterMineWeld
+    second: {fileID: 2100000, guid: bca8076cd2d58184ea919e49cf01afd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_PosterNoSmoking
+    second: {fileID: 2100000, guid: c9912ab33b361874bb960f5d08ae1ed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_PosterTrack
+    second: {fileID: 2100000, guid: 0c082530252e6f34997c8781d41f4f58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_PosterWarning
+    second: {fileID: 2100000, guid: 37a9e646ff9c8a241a2f9a8c5c197f2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_RadioPlate
+    second: {fileID: 2100000, guid: 4b0c5ac5b5efbee4e9ed1e84f3320a4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_RadioSpeaker
+    second: {fileID: 2100000, guid: 35b345c7f2415f348b68de6e299dff2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_RedDotCigarBox
+    second: {fileID: 2100000, guid: 95d751b1f33a9e148b9b92d5b850860b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_RedHelmet
+    second: {fileID: 2100000, guid: 6a8182a9051a3b64ca5d30d0fb26c45b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_RepublicSteel
+    second: {fileID: 2100000, guid: a1ec4101220bcbe4984d4324affd511e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Ruler
+    second: {fileID: 2100000, guid: 6abf17b4ab2ee4c4e80b616b393e153c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Shelf
+    second: {fileID: 2100000, guid: 84845b7196859eb458a6345d6b99fe6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SteelBrushed
+    second: {fileID: 2100000, guid: f3719aee76365eb488517c2509f90611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Tire
+    second: {fileID: 2100000, guid: bc7659b3c4b81914db2d41ca9dab8d6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Trashcan
+    second: {fileID: 2100000, guid: 271fad5839828984c80cac258dcad3f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wall
+    second: {fileID: 2100000, guid: e72009d7d0f21a54fae7854599d8af97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_WindowFrame
+    second: {fileID: 2100000, guid: 84845b7196859eb458a6345d6b99fe6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_WoodTrim
+    second: {fileID: 2100000, guid: b03daa1c36a11b24b9d2a7dd343730bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WorkBench
+    second: {fileID: 2100000, guid: 00286f6fccbe977479a1436bc5dd130b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
